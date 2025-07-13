@@ -5,10 +5,7 @@
   
 
 - 🌱 I’m currently learning Node.js and Angular  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+    
 
 - ⚡ Fun fact: I read docs like bedtime stories.  
   
